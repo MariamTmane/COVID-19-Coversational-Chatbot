@@ -1,0 +1,23 @@
+
+CHATBOT PROGRAM:
+    the name of the file that contains the code to rund the chatbot is "chatbot.py"
+
+    to run the chatbot program, enter in the terminal the following command
+    >>> python chatbot.py
+
+    to end the program (exit chat), enter exit, or bye.
+
+
+TESTING PROGRAM:
+    this code test the chatbot performance on a validation dataset and prints the score of the question that the program got correct.
+
+    the name of the file that contains the code to test the program is "testing_chatbot.py"
+    to run the program on the testing dataset and see the performance enter the following command:
+    >>> python testing_chatbot.py
+
+
+INFORMATION ABOUT QUESTIONS:
+     the questions dataset, validation dataset, and greetings dataset are in "JSON" format, with these filenames respectively:
+        questions.JSON
+        greetings.JSON
+        validation.JSON

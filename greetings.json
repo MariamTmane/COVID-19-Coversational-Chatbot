@@ -1,0 +1,53 @@
+
+{
+    "greetings": [
+        {
+            "input": "Hello",
+            "response": "Hi there! How can I assist you today?"
+        },
+        {
+            "input": "Hi there",
+            "response": "Hi there! How can I assist you today?"
+        },
+        {
+            "input": "Hi",
+            "response": "Hello! What can I help you with?"
+        },
+        {
+            "input": "Hey",
+            "response": "Hey! How can I assist you?"
+        },
+        {
+            "input": "Good morning",
+            "response": "Good morning! How may I help you?"
+        },
+        {
+            "input": "Good afternoon",
+            "response": "Good afternoon! What can I do for you?"
+        },
+        {
+            "input": "Good evening",
+            "response": "Good evening! How can I assist you?"
+        },
+        {
+            "input": "Howdy",
+            "response": "Howdy! What can I do for you today?"
+        },
+        {
+            "input": "Yo",
+            "response": "Yo! What's up?"
+        },
+        {
+            "input": "can I ask you a question",
+            "response": "Yes, of course, I am here to answer your questions"
+        },
+        {
+            "input": "can I ask a question",
+            "response": "Yes, of course, I am here to answer your questions"
+        }
+    ]
+ }
+ 
+
+
+

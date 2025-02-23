@@ -1,0 +1,47 @@
+{
+    "questions": [
+      {
+        "question": "What about testing",
+        "answer": "what do I need to know about testing?"
+      },
+      {
+        "question": "what are some symptoms of covid-19",
+        "answer": "What are the symptoms of COVID-19?"
+      },
+      {
+        "question": "do you think the vaccine is safe",
+        "answer": "is the vaccine safe and effective?"
+      },
+      {
+        "question": "does wearing masks prevent from covid",
+        "answer": "How effective are cloth masks in preventing COVID-19?"
+      },
+      {
+        "question": "what if i have a cough",
+        "answer": "does it mean i have covid if i have a cough"
+      },
+      {
+        "question": "how do i know when to go back to normal life",
+        "answer": "When can I go back to normal activities?"
+      },
+      {
+        "question": "what if i lose my sense of taste",
+        "answer": "What does it mean if I lose my sense of taste or smell?"
+      },
+      {
+        "question": "can covid be transmitted to pets",
+        "answer": "Can COVID-19 be transmitted through pets?"
+      },
+      {
+        "question": "do children get covid-19",
+        "answer": "do children get severe illness if they get covid-19?"
+      },
+      {
+        "question": "what if i am vomiting?",
+        "answer": "What does it mean if I am vomiting?"
+      }
+
+
+    ]
+  }
+  

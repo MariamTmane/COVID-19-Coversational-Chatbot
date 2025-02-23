@@ -1,0 +1,129 @@
+{
+    "questions": [
+      {
+        "question": "How does COVID-19 spread?",
+        "answer": "COVID-19 primarily spreads through respiratory droplets when an infected person coughs, sneezes, or talks. It can also spread by touching surfaces contaminated with the virus and then touching the face."
+      },
+      {
+        "question": "What should I do if I think I have COVID-19?",
+        "answer": "If you have symptoms of COVID-19 or have been in close contact with someone who has COVID-19, you should stay home, isolate yourself from others, and contact your healthcare provider for guidance."
+      },
+      {
+        "question": "How can I protect myself and others from COVID-19?",
+        "answer": "You can protect yourself and others by wearing masks, practicing good hand hygiene, maintaining physical distance from others, avoiding large gatherings, and getting vaccinated when eligible."
+      },
+      {
+        "question": "What is the difference between quarantine and isolation?",
+        "answer": "Quarantine is for people who have been exposed to COVID-19 and are at risk of developing the illness. Isolation is for people who have tested positive for COVID-19 and need to separate themselves from others to prevent spread."
+      },
+      {
+        "question": "are vaccines safe and effective?",
+        "answer": "Yes, COVID-19 vaccines have undergone rigorous testing to ensure safety and efficacy. They have been shown to be highly effective at preventing COVID-19 and reducing the severity of illness."
+      },
+      {
+        "question": "is the vaccine safe and effective?",
+        "answer": "Yes, COVID-19 vaccines have undergone rigorous testing to ensure safety and efficacy. They have been shown to be highly effective at preventing COVID-19 and reducing the severity of illness."
+      },
+      {
+        "question": "What are the current recommendations for travel during the COVID-19 pandemic?",
+        "answer": "Travel recommendations vary depending on the level of COVID-19 transmission in your area and your destination. It's important to check for travel advisories and follow guidelines from health authorities."
+      },
+      {
+        "question": "What if I tested positive but never had symptoms?",
+        "answer": "You may be contagious. For the next 5 days: take added precaution, such as taking additional steps for cleaner air, hygiene, masks, physical distancing, and/or testing when you will be around other people indoors. This is especially important to protect people with factors that increase their risk of severe illness from respiratory viruses."
+      },
+      {
+        "question": "What are the symptoms of COVID-19?",
+        "answer": "Symptoms of COVID-19 include Fever or chills, cough, shortness of reath or difficulty breathing, fatigue, muscle or body aches, headache, sore throat, loss of taste or smeel, congestion or runny nose, and nausea or vomiting"
+      },
+      {
+        "question": "How long is the incubation period for COVID-19?",
+        "answer": "Review of studies conducted from 2020 to March 2022 indicated an average incubation period for COVID-19 at six to seven days, ranging from 1.8 to 18.87 days."
+      },
+      {
+        "question": "When should I Seek Emergency Medical Attention?",
+        "answer": "Emergency warning signs include, trouble breathing, presistent pain or pressure in chest, inability to stay awake or loss of consciousness, If your or someone you know is showing any of these signs, call 911 or call ahead to your local emergency facility. Notify the operator that you are seeking care for someone who has or may have COVID-19."
+      },
+      {
+        "question": "What is the difference between flu and COVID-19?",
+        "answer": "Influenza (Flu) and COVID-19 are both contagious respiratory illnesses, but they are caused by different viruses. You cannot tell the difference between flu and COVID-19 by symptoms alone because some of the symptoms are the same. Some PCR tests can differentiate between flu and COVID-19 at the same time."
+      },
+      {
+        "question": "what do I need to know about testing?",
+        "answer": "When you get test, Make sure to test at the right time, Choose the right type of test for your circumstance  Follow test directions as recommended by FDA If you do not, your results may be less likely to correctly indicate whether you have COVID-19 or not. This is a link to the Centers of Disease contronl and prevention website for more information <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html\">Click here</a>."
+      },
+      {
+        "question": "What to do if I have respiratory or breathing symptoms?",
+        "answer": "you have to use precautions to prevent spread, including staying home and away from others (including people you live with who are not sick)"
+      },
+      {
+        "question": "When can I go back to normal activities?",
+        "answer": "You can go back to normal activities if for more that 24 hours, your symtoms are getting better overall, and you have not had a fever (and are not using fever-reducing medication). When you go back to your normal activities, take added precaution over the next 5 days, Keep in mind that you may still be able to spread the virus that made you sick, even if you are feeling better. You are likely to be less contagious at this time, depending on factors like how long you were sick or how sick you were."
+      },
+      {
+        "question": "Is it recommended to take Ibuprophen?",
+        "answer": "It is not recommended to take Ibuprophen until you consult your doctor"
+      },
+      {
+        "question": "What does it mean if I have a fever?",
+        "answer": "Fever is a common symptom of COVID-19. It indicates that your body is responding to an infection, such as the coronavirus. It's important to monitor your temperature and seek medical advice if you have a fever."
+      },
+      {
+        "question": "does it mean i have covid if i have a cough",
+        "answer": "A cough can be a symptom of COVID-19, especially if it is persistent or accompanied by other symptoms like fever or shortness of breath. It's important to monitor your symptoms and consult a healthcare professional for guidance."
+      },
+      {
+        "question": "What does it mean if I have shortness of breath?",
+        "answer": "Shortness of breath or difficulty breathing is a serious symptom of COVID-19 that may indicate pneumonia or other respiratory complications. If you experience difficulty breathing, seek medical attention immediately."
+      },
+      {
+        "question": "What does it mean if I lose my sense of taste or smell?",
+        "answer": "Loss of taste or smell, also known as anosmia, is a common symptom of COVID-19. It may occur suddenly and without warning. If you experience a sudden loss of taste or smell, it's important to self-isolate and seek medical advice."
+      },
+      {
+        "question": "What does it mean if I have muscle or body aches?",
+        "answer": "Muscle or body aches are common symptoms of COVID-19 and can occur in conjunction with other symptoms like fever and fatigue. These symptoms may indicate that your body is fighting off an infection."
+      },
+      {
+        "question": "What does it mean if I have a sore throat?",
+        "answer": "A sore throat can be a symptom of COVID-19, although it is less common than other symptoms like fever and cough. If you have a sore throat along with other symptoms of COVID-19, it's important to monitor your symptoms and seek medical advice if necessary."
+      },
+      {
+        "question": "What does it mean if I am vomiting?",
+        "answer": "Nausea or vomiting can be symptoms of COVID-19, although they are less common than respiratory symptoms like fever and cough. If you experience nausea or vomiting along with other symptoms of COVID-19, it's important to monitor your symptoms and seek medical advice if necessary."
+      },
+      {
+        "question": "What does it mean if I have diarrhea?",
+        "answer": "Diarrhea can be a symptom of COVID-19, although it is less common than respiratory symptoms like fever and cough. If you experience diarrhea along with other symptoms of COVID-19, it's important to monitor your symptoms and seek medical advice if necessary."
+      },
+      {
+        "question": "How is COVID-19 diagnosed?",
+        "answer": "COVID-19 can be diagnosed through laboratory testing of respiratory specimens or through serological tests. The most common diagnostic test is the PCR (polymerase chain reaction) test, which detects the virus's genetic material."
+      },
+      {
+        "question": "Can COVID-19 be transmitted through food?",
+        "answer": "There is currently no evidence to suggest that COVID-19 can be transmitted through food. The virus primarily spreads through respiratory droplets when an infected person coughs, sneezes, or talks."
+      },
+      {
+        "question": "What is the mortality rate of COVID-19?",
+        "answer": "The mortality rate of COVID-19 varies depending on factors such as age, underlying health conditions, and access to medical care. Overall, the mortality rate is estimated to be around 2% to 3%, but it can be higher in certain populations."
+      },
+      {
+        "question": "do children get severe illness if they get covid-19?",
+        "answer": "While children can contract COVID-19, they are generally less likely to develop severe illness compared to adults. However, children with underlying health conditions may be at higher risk of complications."
+      },
+      {
+        "question": "Can COVID-19 be transmitted through pets?",
+        "answer": "There have been rare cases of pets contracting COVID-19 from their owners, but there is no evidence to suggest that pets can transmit the virus to humans. It's still recommended to practice good hygiene around pets, such as washing hands after handling them."
+      },
+      {
+        "question": "How effective are cloth masks in preventing COVID-19?",
+        "answer": "Cloth masks can help reduce the spread of COVID-19 by trapping respiratory droplets emitted when a person talks, coughs, or sneezes. While not as effective as medical-grade masks, cloth masks are still recommended for use in public settings where physical distancing may be challenging."
+      },
+      {
+        "question": "What are the long-term effects of COVID-19?",
+        "answer": "Some individuals may experience long-term symptoms after recovering from COVID-19, a condition known as long COVID. Common long-term effects include fatigue, shortness of breath, joint pain, and cognitive difficulties."
+      }
+    ]
+  }
+  
